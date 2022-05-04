@@ -1,0 +1,15 @@
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.csproj.AssemblyReference.cache
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.AssemblyInfoInputs.cache
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.AssemblyInfo.cs
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.csproj.CoreCompileInputs.cache
+C:\Users\rafls\source\repos\trabalho1POO\bin\Debug\net6.0\trabalho1POO.exe
+C:\Users\rafls\source\repos\trabalho1POO\bin\Debug\net6.0\trabalho1POO.deps.json
+C:\Users\rafls\source\repos\trabalho1POO\bin\Debug\net6.0\trabalho1POO.runtimeconfig.json
+C:\Users\rafls\source\repos\trabalho1POO\bin\Debug\net6.0\trabalho1POO.dll
+C:\Users\rafls\source\repos\trabalho1POO\bin\Debug\net6.0\trabalho1POO.pdb
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.dll
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\refint\trabalho1POO.dll
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.pdb
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\trabalho1POO.genruntimeconfig.cache
+C:\Users\rafls\source\repos\trabalho1POO\obj\Debug\net6.0\ref\trabalho1POO.dll
