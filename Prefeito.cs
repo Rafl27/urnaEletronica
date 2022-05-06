@@ -13,6 +13,7 @@ namespace trabalho1POO
         public override string getNome()
         {
             return nome;
+
         }
         public override void setNome(string nome)
         {

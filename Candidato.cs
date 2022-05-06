@@ -3,15 +3,16 @@ namespace trabalho1POO
      public class Candidato
     {
         public string nome, partido, cidade;
-        public int numero, numeroDeVotos;
+        public int numero, numeroDeVotos, idade;
 
-        public Candidato(string nome, string partido, string cidade, int numero, int numeroDeVotos)
+        public Candidato(string nome, string partido, string cidade, int numero, int numeroDeVotos, int idade)
         {
             this.nome = nome;
             this.partido = partido;
             this.cidade = cidade;
             this.numero = numero;
             this.numeroDeVotos = numeroDeVotos;
+            this.idade = idade;
         }
 
          public virtual string getNome(){
@@ -47,7 +48,7 @@ namespace trabalho1POO
         public virtual void setNumeroDeVotos(int numeroDeVotos){
             this.numeroDeVotos = numeroDeVotos;
         }
-
+    
 
 
 
