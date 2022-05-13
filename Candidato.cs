@@ -14,6 +14,14 @@ namespace trabalho1POO
             this.numeroDeVotos = numeroDeVotos;
             this.idade = idade;
         }
+        public Candidato(string nome, string partido, string cidade, int numero, int numeroDeVotos)
+        {
+            this.nome = nome;
+            this.partido = partido;
+            this.cidade = cidade;
+            this.numero = numero;
+            this.numeroDeVotos = numeroDeVotos;
+        }
 
          public virtual string getNome(){
             return nome;
