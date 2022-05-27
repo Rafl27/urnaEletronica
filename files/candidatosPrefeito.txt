@@ -1,0 +1,5 @@
+Rafael Do Campo; PDR; 1; 9; 23;Brumadinho
+Joao Rosado; PR; 2; 10; 21;Igarape
+Glenda Faria; PG; 3; 11; 23;Betim
+Victor; PVF; 4; 12; 21;Boreo
+Gabriel Hirano; PH; 5; 13; 22;Betim

@@ -18,17 +18,17 @@ namespace trabalho1POO
             Console.WriteLine("2. Adicionar Candidatos");
             Console.WriteLine("Nº de candidatos");
             numeroDeCandidatos = Convert.ToInt32(Console.ReadLine());
-            string linha = leitor.ReadLine();
+            string linha = ;
             op = linha;
 
             switch (op)
             {
                 case "1":
-                    AdicionarCandidatos();
-                    break;
-                case "2":
                     cadastrarEleicao();
                     break;
+                // case "2":
+                //     cadastrarEleicao();
+                //     break;
                 default:
                     Console.WriteLine("e aí?");
                     break;
