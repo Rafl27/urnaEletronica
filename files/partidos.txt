@@ -1,7 +1,7 @@
-1; PDR; Partido do Rafa
-2; PR; Partido rosadao
-3; PG; Partido da Glenda
-4; PVF; Partido Vitao Flertador
+1; PL; Partido Livre
+2; PC; Partido Colorido
+3; PS; Partido Spring
+4; PA; Partido Animal
 5; PH; Partidos dos Hiranos
 
 
