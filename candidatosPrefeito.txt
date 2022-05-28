@@ -1,0 +1,5 @@
+glenda Hirana; PDR; Brumadinho; 1; 9; 23;
+gabriel Rosado; PR; Igarape; 2; 10; 21;
+rafael Faria; PG; Betim; 3; 45; 23;
+Victor euleuterio; PVF; Boreo; 4; 12; 21;
+rubens campos; PH; Betim; 5; 13; 22;

@@ -1,5 +1,5 @@
-namespace trabalho1POO
-{
+using System;
+
     public class Vereador : Candidato
     {
         public Vereador(string nome, string partido, string cidade, int numero, int numeroDeVotos) : base(nome, partido, cidade, numero, numeroDeVotos)
@@ -55,4 +55,3 @@ namespace trabalho1POO
             this.numeroDeVotos = numeroDeVotos;
         }
     }
-}

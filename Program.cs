@@ -1,10 +1,13 @@
-﻿namespace trabalho1POO
+﻿using System;
+using System.IO;
+
+namespace Ex11
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            Urna.Menu();
+            Urna x = new Urna();
         }
     }
 }
