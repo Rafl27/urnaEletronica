@@ -1,0 +1,32 @@
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.exe
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.deps.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.runtimeconfig.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\ref\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\bin\Debug\net5.0\Ex11.pdb
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\ref\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.pdb
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\POO\Algoritmo C# 11 (LEITURA E ESCRITA DE ARQUIVOS)\Ex11\obj\Debug\net5.0\Ex11.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.exe
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.deps.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.runtimeconfig.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\ref\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\bin\Debug\net5.0\Ex11.pdb
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\ref\Ex11.dll
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.pdb
+C:\Users\vitor\Desktop\ESTUDO\Terceiro Semestre PUC\TRABALHOS\POO URNA\ex11\obj\Debug\net5.0\Ex11.genruntimeconfig.cache

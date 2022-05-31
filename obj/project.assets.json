@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HIRANO\\.nuget\\packages\\": {}
+    "C:\\Users\\vitor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\poo_trab1\\trabalho1POO\\trabalho1POO.csproj",
-      "projectName": "trabalho1POO",
-      "projectPath": "F:\\GitHub\\poo_trab1\\trabalho1POO\\trabalho1POO.csproj",
-      "packagesPath": "C:\\Users\\HIRANO\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\poo_trab1\\trabalho1POO\\obj\\",
+      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\POO URNA\\ex11\\Ex11.csproj",
+      "projectName": "Ex11",
+      "projectPath": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\POO URNA\\ex11\\Ex11.csproj",
+      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\POO URNA\\ex11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HIRANO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

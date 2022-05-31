@@ -1,5 +1,6 @@
-namespace trabalho1POO
-{
+using System;
+
+
      public class Candidato
     {
         public string nome, partido, cidade;
@@ -14,6 +15,7 @@ namespace trabalho1POO
             this.numeroDeVotos = numeroDeVotos;
             this.idade = idade;
         }
+
         public Candidato(string nome, string partido, string cidade, int numero, int numeroDeVotos)
         {
             this.nome = nome;
@@ -73,4 +75,3 @@ namespace trabalho1POO
 
 
     }
-}
