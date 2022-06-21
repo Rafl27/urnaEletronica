@@ -1,0 +1,16 @@
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.exe
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.deps.json
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.runtimeconfig.json
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.dll
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\ref\Urna Final.dll
+C:\Users\vitor\Desktop\Urna Final\bin\Debug\net5.0\Urna Final.pdb
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.dll
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\ref\Urna Final.dll
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.pdb
+C:\Users\vitor\Desktop\Urna Final\obj\Debug\net5.0\Urna Final.genruntimeconfig.cache

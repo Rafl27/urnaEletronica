@@ -6,11 +6,10 @@ using System;
         public string nome, partido, cidade;
         public int numero, numeroDeVotos, idade;
 
-        public Candidato(string nome, string partido, string cidade, int numero, int numeroDeVotos, int idade)
+        public Candidato(string nome, string partido, int idade, int numero, int numeroDeVotos)
         {
             this.nome = nome;
             this.partido = partido;
-            this.cidade = cidade;
             this.numero = numero;
             this.numeroDeVotos = numeroDeVotos;
             this.idade = idade;
@@ -24,6 +23,10 @@ using System;
             this.numero = numero;
             this.numeroDeVotos = numeroDeVotos;
         }
+
+       public Candidato () {
+         
+       }
 
          public virtual string getNome(){
             return nome;
@@ -57,6 +60,11 @@ using System;
         }
         public virtual void setNumeroDeVotos(int numeroDeVotos){
             this.numeroDeVotos = numeroDeVotos;
+        }
+
+       public virtual int getIdade() 
+        {
+            return idade;
         }
     
 

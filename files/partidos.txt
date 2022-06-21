@@ -1,7 +1,0 @@
-1; PL; Partido Livre
-2; PC; Partido Colorido
-3; PS; Partido Spring
-4; PA; Partido Animal
-5; PH; Partidos dos Hiranos
-
-

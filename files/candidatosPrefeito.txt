@@ -1,5 +1,5 @@
-Rafael Do Campo; PDR; 1; 9; 23;Brumadinho
-Joao Rosado; PR; 2; 10; 21;Igarape
-Glenda Faria; PG; 3; 11; 23;Betim
-Victor; PVF; 4; 12; 21;Boreo
-Gabriel Hirano; PH; 5; 13; 22;Betim
+Glenda Hirana; PDR; Brumadinho; 1; 9; 23;
+Gabriel Rosado; PR; Igarape; 2; 10; 21;
+Rafael Faria; PG; Betim; 3; 45; 23;
+Victor euleuterio; PVF; Boreo; 4; 47; 21;
+Rubens campos; PH; Betim; 5; 13; 22;

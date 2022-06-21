@@ -2,11 +2,10 @@ using System;
 
     public class Vereador : Candidato
     {
-        public Vereador(string nome, string partido, string cidade, int numero, int numeroDeVotos) : base(nome, partido, cidade, numero, numeroDeVotos)
+        public Vereador(string nome, string partido, int idade, int numero, int numeroDeVotos) : base(nome, partido, idade, numero, numeroDeVotos)
         {
             this.nome = nome;
             this.partido = partido;
-            this.cidade = cidade;
             this.numero = numero;
             this.numeroDeVotos = numeroDeVotos;
         }
@@ -54,4 +53,6 @@ using System;
         {
             this.numeroDeVotos = numeroDeVotos;
         }
+
+        
     }

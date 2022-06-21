@@ -1,0 +1,5 @@
+Victor euleuterio; PVF; 4; 12; 21;Boreo
+glenda Hirana; PDR; 1; 9; 23;Brumadinho
+gabriel Rosado; PR; 2; 10; 21;Igarape
+rafael Faria; PG; 3; 11; 23;Betim
+rubens campos; PH; 5; 13; 27;Betim

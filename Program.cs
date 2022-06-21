@@ -1,13 +1,10 @@
 ﻿using System;
 using System.IO;
-
-namespace Ex11
+class Program
 {
-    class Program
+    public static void Main()
     {
-        public static void Main()
-        {
-            Urna x = new Urna();
-        }
+        Urna.Menu();
     }
 }
+

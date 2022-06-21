@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafls\\Documents\\GitHub\\trabalho1POO\\Ex11.csproj",
-      "projectName": "Ex11",
-      "projectPath": "C:\\Users\\rafls\\Documents\\GitHub\\trabalho1POO\\Ex11.csproj",
+      "projectUniqueName": "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj",
+      "projectName": "Urna Final",
+      "projectPath": "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj",
       "packagesPath": "C:\\Users\\rafls\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafls\\Documents\\GitHub\\trabalho1POO\\obj\\",
+      "outputPath": "C:\\Users\\rafls\\Desktop\\Urna Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafls\\AppData\\Roaming\\NuGet\\NuGet.Config",
