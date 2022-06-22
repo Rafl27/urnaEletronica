@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj": {}
+    "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\Urna Final\\Urna Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj": {
+    "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\Urna Final\\Urna Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\Urna Final\\Urna Final.csproj",
         "projectName": "Urna Final",
-        "projectPath": "C:\\Users\\rafls\\Desktop\\Urna Final\\Urna Final.csproj",
-        "packagesPath": "C:\\Users\\rafls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafls\\Desktop\\Urna Final\\obj\\",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\Urna Final\\Urna Final.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\ESTUDO\\Terceiro Semestre PUC\\TRABALHOS\\Urna Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafls\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

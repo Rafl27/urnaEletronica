@@ -238,7 +238,7 @@ abstract class Urna
         Stream entrada = File.Open("files/2turnoPrefeito.txt", FileMode.Open);
         StreamReader leitor = new StreamReader(entrada);
         linha = leitor.ReadLine();
-
+        int contAgr = 0;
         while (linha != null)
         {
             string[] candidato = linha.Split(';');
@@ -273,76 +273,49 @@ abstract class Urna
             vencedor = candidatosComQuantidadeDeVotosMaiorQueMetade[pos];
             return vencedor;
         }
-
-        else if(numeroDeCandidatosComQuantidadeDeVotosMaiorQueMetadeDosVotosTotais == 0)
+        
+        //segundo turno
+        else
         {
             doisComMaiorQuantidadeDeVotos = OrdenaCandidatosComMaiorQuantidadeDeVotos(candidatos);
             Console.WriteLine("Nome dos dois candidatos com a maior quantidade de votos do segundo turno: " + doisComMaiorQuantidadeDeVotos[0].getNome() + " & " + doisComMaiorQuantidadeDeVotos[1].getNome());
-            Prefeito[] candidatosSegundoTurno = registraSegundoTurnoPrefeito();
-            for (int i = 0; i < candidatosSegundoTurno.Length; i++)
+            Prefeito[] candidatosSegundoTurno2 = new Prefeito[2];
+            candidatosSegundoTurno2 = registraSegundoTurnoPrefeito();
+            for (int g = 0; g < candidatosSegundoTurno2.Length; g++)
             {
-                for (int j = 0; j < candidatosSegundoTurno.Length; j++)
+                for (int q = 0; q < candidatosSegundoTurno2.Length; q++)
                 {
-                    if (candidatosSegundoTurno[i].getNumeroDeVotos() > candidatosSegundoTurno[j].getNumeroDeVotos())
+                    if (candidatosSegundoTurno2[0].getNumeroDeVotos() > candidatosSegundoTurno2[1].getNumeroDeVotos())
                     {
-                        vencedor = candidatosSegundoTurno[i];
+                        vencedor = candidatosSegundoTurno2[0];
                         return vencedor;
                     }
-                    else if (candidatosSegundoTurno[i].getNumeroDeVotos() < candidatosSegundoTurno[j].getNumeroDeVotos())
+                    else if (candidatosSegundoTurno2[0].getNumeroDeVotos() < candidatosSegundoTurno2[1].getNumeroDeVotos())
                     {
-                        vencedor = candidatosSegundoTurno[j];
-                        return vencedor;
-                    }
-        }
-        }
-        }
-        //segundo turno
-        else if (numeroDeCandidatosComQuantidadeDeVotosMaiorQueMetadeDosVotosTotais >= 2)
-        {
-            doisComMaiorQuantidadeDeVotos = OrdenaCandidatosComMaiorQuantidadeDeVotos(candidatos);
-            Console.WriteLine("Nome dos dois candidatos com a maior quantidade de votos do segundo turno: " + doisComMaiorQuantidadeDeVotos[0].getNome() + doisComMaiorQuantidadeDeVotos[1].getNome());
-            Prefeito[] candidatosSegundoTurno = registraSegundoTurnoPrefeito();
-            for (int i = 0; i < candidatosSegundoTurno.Length; i++)
-            {
-                for (int j = 0; j < candidatosSegundoTurno.Length; j++)
-                {
-                    if (candidatosSegundoTurno[i].getNumeroDeVotos() > candidatosSegundoTurno[j].getNumeroDeVotos())
-                    {
-                        vencedor = candidatosSegundoTurno[i];
-                        return vencedor;
-                    }
-                    else if (candidatosSegundoTurno[i].getNumeroDeVotos() < candidatosSegundoTurno[j].getNumeroDeVotos())
-                    {
-                        vencedor = candidatosSegundoTurno[j];
+                        vencedor = candidatosSegundoTurno2[1];
                         return vencedor;
                     }
                     //terceiro turno, decisao por idade
-                    else if (candidatosSegundoTurno[i].getNumeroDeVotos() == candidatosSegundoTurno[j].getNumeroDeVotos())
+                    else if (candidatosSegundoTurno2[0].getNumeroDeVotos() == candidatosSegundoTurno2[1].getNumeroDeVotos())
                     {
-                        for (int t = 0; t < candidatosSegundoTurno.Length; t++)
-                        {
-                            for (int u = 0; u < candidatosSegundoTurno.Length; u++)
-                            {
-                                if (candidatosSegundoTurno[t].getIdade() > candidatosSegundoTurno[u].getIdade())
+                  
+                                if (candidatosSegundoTurno2[0].getIdade() > candidatosSegundoTurno2[1].getIdade())
                                 {
-                                    vencedor = candidatosSegundoTurno[t];
+                                    vencedor = candidatosSegundoTurno2[0];
                                     return vencedor;
                                 }
-                                else if (candidatosSegundoTurno[t].getIdade() < candidatosSegundoTurno[u].getIdade())
+                                else if (candidatosSegundoTurno2[0].getIdade() < candidatosSegundoTurno2[1].getIdade())
                                 {
-                                    vencedor = candidatosSegundoTurno[u];
+                                    vencedor = candidatosSegundoTurno2[1];
                                     return vencedor;
                                 }
-
-                            }
-                        }
+                            
+                        
                     }
 
                 }
 
-            }
-
-
+            }       
         }
         Console.WriteLine("Ocorreu um empate por idade no terceiro turno!");
         return new Prefeito("Ocorreu empate por idade no terceiro turno.");
